@@ -1,0 +1,45 @@
+.About-us{
+    text-align: center;
+}
+
+.About-head{
+    font-size: 4.5rem;
+    margin-top: 50px;
+}
+
+.About-heading{
+    font-size: 2rem;
+}
+
+.AboutPhoto{
+    margin-left: 1300px;
+    margin-top: 180px;
+}
+
+.AboutText{
+    margin-top: -300px;
+}
+
+.head-1 {
+    font-size: 4.5rem;
+    margin-top: -440px;
+    color: #767676;
+}
+
+.para-1{
+    margin-top: -400px;
+    /* margin-left: 50px; */
+}
+
+
+.AboutPhoto2 {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.para-2{
+    margin-left: 800px;
+    margin-top: -280px;
+    font-size: 1.5rem;
+    margin-right: 50px;
+}

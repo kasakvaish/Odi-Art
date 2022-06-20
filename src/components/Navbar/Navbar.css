@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: centre;
+  height: 75px;
+  background-color: #590696;
+  color: white;
+  /* position: sticky; */
+  margin-top: auto;
+  visibility: visible;
+  left: 0px;
+  top: 0px;
+}
+.Logo {
+  font-size: 30px;
+  /* margin-top: 20px; */
+  text-align: center;
+  /* align-items: centre; */
+  
+}
+
+.nav-links {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  width: 80%;
+  text-align: center;
+  margin-top: auto;
+}
+
+.Home,
+.Event,
+.Gallery,
+.News,
+.Patrons,
+.Training,
+.About {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    padding: 10px 10px;
+    margin: 0 9px;
+    cursor: pointer;
+}

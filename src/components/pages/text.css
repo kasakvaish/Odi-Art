@@ -1,0 +1,57 @@
+.container{
+    margin: 0 0 0 0;
+    width: auto;
+    top: -100px;
+    margin-top: -300px;
+}
+
+
+.sub-Text-1 {
+    width: 431px;
+    height: 32px;
+    left:80px;
+    color: #767676;
+    font-size: 60px;
+    /* margin-bottom: 900px; */
+}
+
+.para-1 {
+    margin: 70px 20px 0 0;
+    font-size: 1.5em;
+    width: 1000px;
+
+}
+
+.Photo {
+    margin-left: 1200px;
+    margin-top: -210px;
+    height: 100%;
+    width: 900px;
+    top: -100px;
+    position: relative;
+}
+
+.Words {
+    text-align: center;
+    margin-left: 500px;
+}
+
+.button {
+    margin: 80px 0 0 0;
+    font-size: 2em;
+}
+
+.cards-2 {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    margin-left: 500px;
+    justify-content: space-between;
+
+}
+
+.cardSpace{
+    margin-left: 20px;
+    width: 800px;
+}

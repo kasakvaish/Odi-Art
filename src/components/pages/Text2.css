@@ -1,0 +1,42 @@
+
+.Cards-3{
+    display: flex;
+    margin-left: 600px;
+    margin-top: -250px;
+    justify-content: space-around;
+    position: relative;
+}
+
+.Heading{
+    margin: 240px 0 0 80px;
+    position: relative;
+}
+
+.text2{
+    font-size: 3.5rem;
+    font-weight: 500;
+    color: #767676;
+    font-family: 'Poppins', sans-serif;
+}
+
+.para2{
+    font-size: 1.5rem;
+}
+
+.Heading-2{
+    margin-left: 730px;
+    color: #767676;
+    margin-top: 200px;
+}
+
+.text3{
+    font-size: 3.5rem;
+}
+
+
+.para3{
+    margin-left: 130px;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 90px;
+}
